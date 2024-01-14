@@ -1,0 +1,165 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    background-color: rgba(13, 13, 12, 0.929);
+    color: rgb(254, 254, 254);
+}
+.main{
+    background-color: black;
+}
+.image{
+    margin-left: 90px;
+    margin-right: 700px;
+    height: 90px;
+}
+button{
+    width: 90px;
+    height: 30px;
+    float: right;
+    margin-top: 30px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.head{
+    margin-left: 60px;
+    margin-top: 40px;
+    margin-right: 700px;
+    font-size: 20px;
+}
+.head1{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.movies{
+    margin-top: 10px;
+    margin-left: 60px;
+    display: flex;
+}
+.link{
+    text-decoration: none;
+}
+p{
+    color: white;
+    margin-left: 15px;
+}
+.image3{
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 150px;
+    width: 250px;
+}
+.para3{
+    margin-left: 115px;
+    margin-top: 5px;
+}
+.para4{
+    margin-left: 140px;
+    margin-top: 5px;
+}
+.bharat{
+    margin-left: 70px;
+    margin-top: 5px;
+}
+.para1{
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.para4{
+    margin-left: 100px;
+}
+.para5{
+    margin-left: 80px;
+}
+.para6{
+    margin-left: 80px;
+}
+.para7{
+    margin-left: 120px;
+}
+.about{
+    margin-left: 180px;
+    padding-top: 50px;
+    font-size: 25px;
+}
+.FQA{
+    padding-right: 170px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Help{
+    padding-right: 120px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Account{
+    padding-right: 125px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Media{
+    padding-right: 120px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Investor{
+    padding-right: 65px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Jobs{
+    padding-right: 180px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Ways{
+    padding-right: 70px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Terms{
+    padding-right: 120px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.privacy{
+    padding-right: 145px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Cookie{
+    padding-right: 65px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.corporate{
+    padding-right: 15px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Contact{
+    padding-right: 10px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.speed{
+    padding-right: 125px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Legal{
+    padding-right: 110px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Only{
+    padding-right: 70px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.netflix{
+    color: aliceblue;
+    font-size: 20px;
+}

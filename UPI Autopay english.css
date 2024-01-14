@@ -1,0 +1,103 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.image{
+    height: 90px;
+}
+.Sign{
+    float: right;
+    margin-right: 90px;
+    margin-top: 40px;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+.Sign:hover{
+    text-decoration: underline;
+}
+.first{
+    margin-left: 500px;
+    margin-top: 40px;
+}
+.select{
+    width: 400px;
+    height: 50px;
+}
+.id{
+    height: 40px;
+    width: 400px;
+}
+.find{
+    margin-top: 70px;
+    padding-top: 10px;
+    color: black;
+    text-decoration: none;
+}
+.find:hover{
+    text-decoration: underline;
+}
+button{
+    height: 40px;
+    width: 400px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+.abouta{
+    margin-top: 120px;
+    background-color:  rgba(0, 0, 0, 0.1);
+    color: black;
+}
+.about{
+    margin-left: 180px;
+    padding-top: 50px;
+    font-size: 25px;
+    color: rgb(3, 3, 3);
+
+}
+.FQA{
+    padding-right: 170px;
+    color: black;
+    font-size: 15px;
+}
+.Help{
+    padding-right: 120px;
+    color: black;
+    font-size: 15px;
+}
+.Terms{
+    padding-right: 120px;
+    color: black;
+    font-size: 15px;
+}
+.privacy{
+    padding-right: 145px;
+    color: black;
+    font-size: 15px;
+}
+.Cookie{
+    padding-right: 80px;
+    color: black;
+    font-size: 15px;
+}
+.corporate{
+    padding-right: 35px;
+    color: black;
+    font-size: 15px;
+}
+
+.lan{
+    margin-right: 70px;
+    margin-top: 30px;
+    height: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: red;
+    color: rgb(231, 229, 238);
+}
+.lan:hover{
+    cursor: pointer;
+    background-color: transparent;
+    color: red;
+}

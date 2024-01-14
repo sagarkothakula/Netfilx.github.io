@@ -1,0 +1,227 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.back{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Netflix background.png");
+    height: 600px;
+
+}
+body{
+    background-color: black;
+    color: white;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+img{
+    margin-left: 90px;
+    margin-right: 700px;
+    height: 90px;
+}
+select{
+    margin-right: 70px;
+    margin-top: 30px;
+    height: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: red;
+    color: rgb(231, 229, 238);
+}
+select:hover{
+    cursor: pointer;
+    background-color: transparent;
+    color: red;
+}
+.sign{
+    margin-right: 70px;
+    margin-top: 30px;
+    height: 30px;
+    width: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(238, 19, 19);
+    color: white;
+    border: 2px black ridge;
+
+}
+.sign:hover{
+    background-color: transparent;
+    color: aliceblue;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.contant {
+    margin-top: 150px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+.form{
+    padding-top: 90px;
+    text-align: center;
+}
+input{
+    height: 35px;
+    width: 290px;
+    background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), transparent;
+    color: aliceblue;
+    padding-right: 20px;
+
+}
+.get{
+    margin-left: 5px;
+    height: 35px;
+    width: 90px;
+    color: black;
+    background-color: red;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.get:hover{
+    background-color: transparent;
+    color: white;
+    border-radius: 10px;
+}
+.blank{
+    border: 3px rgb(89, 73, 73) solid;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    margin: 90px;
+}
+.para{
+    font-size: 20px;
+    margin-top: 60px;
+    font-family: cursive;
+}
+.tv{
+    float: left;
+    margin-right: 10px;
+    height: 200px;
+}
+.Questions{
+    font-size: 40px;
+    font-style: bold;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 10px;
+
+}
+
+.item {
+    border: 1px ridge #ccc;
+    padding-top: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-size: 20px;
+    width: 700px;
+    margin-left: 250px;
+    background-color: rgb(19, 32, 36);
+    
+}
+.item:hover{
+    background-color: rgb(14, 6, 6);
+    cursor: pointer;
+}
+.Frequently{
+    display: none;
+}
+.item:hover .Frequently{
+    display: block;
+    padding-top: 10px;
+}
+.Ready{
+    padding-top: 40px;
+    font-size: 20px;
+    text-align: center;
+}
+.about{
+    margin-left: 180px;
+    padding-top: 50px;
+    font-size: 25px;
+}
+.FQA{
+    padding-right: 170px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Help{
+    padding-right: 120px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Account{
+    padding-right: 125px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Media{
+    padding-right: 120px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Investor{
+    padding-right: 65px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Jobs{
+    padding-right: 180px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Ways{
+    padding-right: 70px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Terms{
+    padding-right: 120px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.privacy{
+    padding-right: 145px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Cookie{
+    padding-right: 65px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.corporate{
+    padding-right: 15px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Contact{
+    padding-right: 10px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.speed{
+    padding-right: 125px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Legal{
+    padding-right: 110px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Only{
+    padding-right: 70px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.netflix{
+    color: aliceblue;
+    font-size: 20px;
+}

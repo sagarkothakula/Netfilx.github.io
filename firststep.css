@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.image{
+    height: 90px;
+}
+.Sign{
+    float: right;
+    margin-right: 90px;
+    margin-top: 40px;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+.Sign:hover{
+    text-decoration: underline;
+}
+.first{
+    margin-top: 90px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.bold{
+    margin-left: 75px;
+}
+.head{
+    margin-left: 20px;
+    font-family: cursive;
+    font-size: 20px;
+}
+.head2{
+    margin-left: 80px;
+    font-family: cursive;
+    font-size: 20px;
+}
+.para{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.para3{
+    margin-left: 60px;
+}
+.next{
+    height: 50px;
+    width: 250px;
+    margin-top: 20px;
+    background-color: red;
+    font-size: 20px;
+    color: white;
+}
+.next:hover{
+    background-color: transparent;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.abouta{
+    margin-top: 20px;
+    background-color:  rgba(0, 0, 0, 0.5);
+}
+.about{
+    margin-left: 180px;
+    padding-top: 50px;
+    font-size: 25px;
+    color: wheat;
+
+}
+.FQA{
+    padding-right: 170px;
+    color: aliceblue;
+    font-size: 15px;
+}
+.Help{
+    padding-right: 120px;
+    color: aliceblue;
+    font-size: 15px;
+}
+.Terms{
+    padding-right: 120px;
+    color: aliceblue;
+    font-size: 15px;
+}
+.privacy{
+    padding-right: 145px;
+    color: aliceblue;
+    font-size: 15px;
+}
+.Cookie{
+    padding-right: 80px;
+    color: aliceblue;
+    font-size: 15px;
+}
+.corporate{
+    padding-right: 35px;
+    color: aliceblue;
+    font-size: 15px;
+}
+select{
+    margin-right: 70px;
+    margin-top: 30px;
+    height: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: red;
+    color: rgb(231, 229, 238);
+}
+select:hover{
+    cursor: pointer;
+    background-color: transparent;
+    color: red;
+}
